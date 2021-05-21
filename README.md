@@ -1,2 +1,2 @@
-[![Seerde's GitHub stats](https://github-readme-stats.vercel.app/api?username=seerde&theme=radical)](https://github.com/seerde)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seerde&&theme=radical&repo=Project-1)](https://github.com/seerde)
+[![Seerde's GitHub stats](https://github-readme-stats.vercel.app/api?username=seerde&theme=radical)](https://github.com/seerde)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seerde&&theme=radical&repo=Project-1)](https://github.com/seerde/Project-1)  
